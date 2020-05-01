@@ -2,7 +2,7 @@
   "name": "chewster-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chewster.github.io/",
+  "homepage": "http://chewster.github.io/chewster-portfolio",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
