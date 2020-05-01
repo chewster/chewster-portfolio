@@ -31,7 +31,7 @@ export default class About extends Component {
                             </div>
                         </div>
                         <div className="row row-pt-md">
-                            <div className="col-md-4 text-center animate-box">
+                            <div className="col-md-5 text-center animate-box">
                                 <div className="services color-1">
                                     <span className="icon">
                                         <i className="icon-bulb" />
@@ -42,7 +42,7 @@ export default class About extends Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-md-4 text-center animate-box">
+                            <div className="col-md-5 text-center animate-box">
                                 <div className="services color-3">
                                     <span className="icon">
                                         <i className="icon-phone3" />
@@ -50,17 +50,6 @@ export default class About extends Component {
                                     <div className="desc">
                                         <h3>Data Structures & Algorithms</h3>
                                         <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-md-4 text-center animate-box">
-                                <div className="services color-5">
-                                    <span className="icon">
-                                        <i className="icon-data" />
-                                    </span>
-                                    <div className="desc">
-                                        <h3>Dev Ops</h3>
-                                        <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
                                     </div>
                                 </div>
                             </div>
