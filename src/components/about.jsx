@@ -37,19 +37,19 @@ export default class About extends Component {
                                         <i className="icon-bulb" />
                                     </span>
                                     <div className="desc">
-                                        <h3>Web Development </h3>
-                                        <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                                        <h3>Front-end Development</h3>
+                                        <p>Building responsive websites using HTML,CSS, JAVASCRIPT, REACT</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-5 text-center animate-box">
                                 <div className="services color-3">
                                     <span className="icon">
-                                        <i className="icon-phone3" />
+                                        <i className="icon-data" />
                                     </span>
                                     <div className="desc">
-                                        <h3>Data Structures & Algorithms</h3>
-                                        <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                                        <h3>Backend Development </h3>
+                                        <p>Working with databases using PYTHON, PHP, MYSQL</p>
                                     </div>
                                 </div>
                             </div>
